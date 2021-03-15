@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build Netgear R7800 OpenWrt
+name: Build Netgear EX6150 OpenWrt
 
 on:
   repository_dispatch:
